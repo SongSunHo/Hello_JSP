@@ -7,5 +7,8 @@ public class Hello {
 	  // 012456:hotfix edit by Song
 	  System.out.println("hotfix edit/modify");
 	  // 012456:end
+		
+	  // 0215238:origin/master edit by Song
+	  System.out.println("GitHub edit");
 	}
 }
