@@ -18,5 +18,9 @@ public class Hello {
       // 0412518:origin/master edit by Song
 	  System.out.println("GitHub edit 4567");
 	  // 0412518:end
+	  
+	  // 023659:hotfix edit by Song
+	  System.out.println("jspjspjsp");
+	  // 023659 end
 	}
 }
